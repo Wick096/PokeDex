@@ -1,5 +1,5 @@
 ### :zap: PokeDex :zap:
-Projeto desenvolvido utilizando as seguintes ferramentas : 
+Projeto desenvolvido utilizando as seguintes ferramentas: 
 
 - JavaScript : Responsável por acionar a api "Pokeapi" , que mostra os pokemons na tela, utilizando alguns topicos da liguagem como "Promisses" ,"Map","Feth" e "Then"
 - Html 🛠️ : Estruturação da Página
