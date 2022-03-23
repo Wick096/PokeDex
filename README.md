@@ -8,4 +8,4 @@ Projeto desenvolvido utilizando as seguintes ferramentas:
 
 
 
-![WhatsApp Image 2022-03-04 at 15 03 01](https://user-images.githubusercontent.com/62807696/156821955-d3bb394a-7a69-47dc-9e41-0795e871a7dc.jpeg).
+![WhatsApp Image 2022-03-04 at 15 03 01](https://user-images.githubusercontent.com/62807696/156821955-d3bb394a-7a69-47dc-9e41-0795e871a7dc.jpeg)
